@@ -5,4 +5,4 @@ A custom Passport Strategy that integrates with MarkLogic user authentication
 Install
 -------
 
-{{ npm install passport-strategy-ml }}
+    npm install passport-strategy-ml
